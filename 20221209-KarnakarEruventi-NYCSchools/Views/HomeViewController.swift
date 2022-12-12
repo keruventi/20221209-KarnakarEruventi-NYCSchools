@@ -23,7 +23,8 @@ class HomeViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        self.navigationController?.navigationBar.topItem?.title = "NYC Schools"
+
         self.searchBar.delegate = self
         self.tableView.delegate = self
         self.tableView.dataSource = self
