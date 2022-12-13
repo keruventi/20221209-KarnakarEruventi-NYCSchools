@@ -84,7 +84,7 @@ class ResultsViewController: UIViewController {
     }
 }
 
-extension ResultsViewController: UITableViewDataSource {
+extension ResultsViewController: UITableViewDelegate, UITableViewDataSource {
     
     override var tableSectionLabel: String? {
         return "SAT Results"

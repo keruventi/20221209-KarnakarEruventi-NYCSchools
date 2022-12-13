@@ -7,17 +7,17 @@
 
 import UIKit
 
-extension UIViewController: UITableViewDelegate {
+extension UIViewController {
     @objc var tableSectionLabel: String? {
         assertionFailure("sub class must provide tableSectionLabel")
         return nil
     }
     
-    public func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
+    @objc public func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
         return 50
     }
     
-    public func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
+    @objc public func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let headerFrame = CGRect(origin: .zero, size: CGSize(width: tableView.frame.width, height: 50))
         let headerView = UIView(frame: headerFrame)
         headerView.backgroundColor = .white

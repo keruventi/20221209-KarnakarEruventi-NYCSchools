@@ -17,10 +17,8 @@
 		5461F0AA29438A78002F3864 /* _0221209_KarnakarEruventi_NYCSchoolsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0A929438A78002F3864 /* _0221209_KarnakarEruventi_NYCSchoolsUITestsLaunchTests.swift */; };
 		5461F0BB29439197002F3864 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0BA29439197002F3864 /* HomeViewController.swift */; };
 		5461F0BC29439197002F3864 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0BA29439197002F3864 /* HomeViewController.swift */; };
-		5461F0BD29439197002F3864 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0BA29439197002F3864 /* HomeViewController.swift */; };
 		5461F0BF294391FE002F3864 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0BE294391FE002F3864 /* ResultsViewController.swift */; };
 		5461F0C0294391FE002F3864 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0BE294391FE002F3864 /* ResultsViewController.swift */; };
-		5461F0C1294391FE002F3864 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0BE294391FE002F3864 /* ResultsViewController.swift */; };
 		5461F0C32943927A002F3864 /* DirectoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0C22943927A002F3864 /* DirectoryModel.swift */; };
 		5461F0C42943927A002F3864 /* DirectoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0C22943927A002F3864 /* DirectoryModel.swift */; };
 		5461F0C629439296002F3864 /* ResultModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0C529439296002F3864 /* ResultModel.swift */; };
@@ -37,37 +35,27 @@
 		5461F0D62945A912002F3864 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0D42945A912002F3864 /* NetworkError.swift */; };
 		5461F0DB2945B2C0002F3864 /* SchoolDataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0DA2945B2C0002F3864 /* SchoolDataTableViewCell.swift */; };
 		5461F0DC2945B2C0002F3864 /* SchoolDataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0DA2945B2C0002F3864 /* SchoolDataTableViewCell.swift */; };
-		5461F0DD2945B2C0002F3864 /* SchoolDataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0DA2945B2C0002F3864 /* SchoolDataTableViewCell.swift */; };
 		5461F0E02945B9F2002F3864 /* UITableView+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0DF2945B9F2002F3864 /* UITableView+Helper.swift */; };
 		5461F0E12945B9F2002F3864 /* UITableView+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0DF2945B9F2002F3864 /* UITableView+Helper.swift */; };
-		5461F0E22945B9F2002F3864 /* UITableView+Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5461F0DF2945B9F2002F3864 /* UITableView+Helper.swift */; };
 		546372B0294656DF007C26B9 /* ResultsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372AF294656DF007C26B9 /* ResultsTableViewCell.swift */; };
 		546372B1294656DF007C26B9 /* ResultsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372AF294656DF007C26B9 /* ResultsTableViewCell.swift */; };
-		546372B2294656DF007C26B9 /* ResultsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372AF294656DF007C26B9 /* ResultsTableViewCell.swift */; };
 		546372B429465EEA007C26B9 /* UIView+Layer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372B329465EEA007C26B9 /* UIView+Layer.swift */; };
 		546372B529465EEA007C26B9 /* UIView+Layer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372B329465EEA007C26B9 /* UIView+Layer.swift */; };
-		546372B629465EEA007C26B9 /* UIView+Layer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372B329465EEA007C26B9 /* UIView+Layer.swift */; };
 		546372B8294668B0007C26B9 /* UIViewController+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372B7294668B0007C26B9 /* UIViewController+Delegate.swift */; };
 		546372B9294668B0007C26B9 /* UIViewController+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372B7294668B0007C26B9 /* UIViewController+Delegate.swift */; };
-		546372BA294668B0007C26B9 /* UIViewController+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372B7294668B0007C26B9 /* UIViewController+Delegate.swift */; };
 		546372BC29466F76007C26B9 /* SchoolDetalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372BB29466F76007C26B9 /* SchoolDetalsViewController.swift */; };
 		546372BD29466F76007C26B9 /* SchoolDetalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372BB29466F76007C26B9 /* SchoolDetalsViewController.swift */; };
-		546372BE29466F76007C26B9 /* SchoolDetalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372BB29466F76007C26B9 /* SchoolDetalsViewController.swift */; };
 		546372C02946A0DA007C26B9 /* SchoolDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372BF2946A0DA007C26B9 /* SchoolDetailsViewModel.swift */; };
 		546372C12946A0DA007C26B9 /* SchoolDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372BF2946A0DA007C26B9 /* SchoolDetailsViewModel.swift */; };
-		546372C22946A0DA007C26B9 /* SchoolDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372BF2946A0DA007C26B9 /* SchoolDetailsViewModel.swift */; };
 		546372C429476BC5007C26B9 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372C329476BC5007C26B9 /* DataService.swift */; };
 		546372C529476BC5007C26B9 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372C329476BC5007C26B9 /* DataService.swift */; };
-		546372C629476BC5007C26B9 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546372C329476BC5007C26B9 /* DataService.swift */; };
 		54DD25222947B77500216A31 /* ActivitySpinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DD25212947B77500216A31 /* ActivitySpinnerView.swift */; };
 		54DD25232947B77500216A31 /* ActivitySpinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DD25212947B77500216A31 /* ActivitySpinnerView.swift */; };
-		54DD25242947B77500216A31 /* ActivitySpinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DD25212947B77500216A31 /* ActivitySpinnerView.swift */; };
 		54DD25262947B8D100216A31 /* ActivitySpinnerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54DD25252947B8D100216A31 /* ActivitySpinnerView.xib */; };
 		54DD25272947B8D100216A31 /* ActivitySpinnerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54DD25252947B8D100216A31 /* ActivitySpinnerView.xib */; };
 		54DD25282947B8D100216A31 /* ActivitySpinnerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 54DD25252947B8D100216A31 /* ActivitySpinnerView.xib */; };
 		54DD252A2947C6EA00216A31 /* UIViewController+Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DD25292947C6EA00216A31 /* UIViewController+Alerts.swift */; };
 		54DD252B2947C6EA00216A31 /* UIViewController+Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DD25292947C6EA00216A31 /* UIViewController+Alerts.swift */; };
-		54DD252C2947C6EA00216A31 /* UIViewController+Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54DD25292947C6EA00216A31 /* UIViewController+Alerts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -455,19 +443,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5461F0A829438A78002F3864 /* _0221209_KarnakarEruventi_NYCSchoolsUITests.swift in Sources */,
-				546372BA294668B0007C26B9 /* UIViewController+Delegate.swift in Sources */,
 				5461F0AA29438A78002F3864 /* _0221209_KarnakarEruventi_NYCSchoolsUITestsLaunchTests.swift in Sources */,
-				546372C629476BC5007C26B9 /* DataService.swift in Sources */,
-				546372B2294656DF007C26B9 /* ResultsTableViewCell.swift in Sources */,
-				54DD252C2947C6EA00216A31 /* UIViewController+Alerts.swift in Sources */,
-				5461F0BD29439197002F3864 /* HomeViewController.swift in Sources */,
-				5461F0E22945B9F2002F3864 /* UITableView+Helper.swift in Sources */,
-				54DD25242947B77500216A31 /* ActivitySpinnerView.swift in Sources */,
-				5461F0C1294391FE002F3864 /* ResultsViewController.swift in Sources */,
-				546372C22946A0DA007C26B9 /* SchoolDetailsViewModel.swift in Sources */,
-				546372B629465EEA007C26B9 /* UIView+Layer.swift in Sources */,
-				546372BE29466F76007C26B9 /* SchoolDetalsViewController.swift in Sources */,
-				5461F0DD2945B2C0002F3864 /* SchoolDataTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -625,11 +601,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = R38R58XREB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "20221209-KarnakarEruventi-NYCSchools/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "NYC Schools";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
@@ -658,11 +636,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = R38R58XREB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "20221209-KarnakarEruventi-NYCSchools/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "NYC Schools";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
